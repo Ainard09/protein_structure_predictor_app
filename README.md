@@ -1,5 +1,5 @@
 ## EMSFold
-The scientific research to better understand the full potential and functions of proteins lies within the protein's structure. [EMSFold](https://esmatlas.com/about) is a great biological tool developed to predict protein structure based on the ESM-2 language model. The focus on this project is to build an algorithm to predict an end-end single sequence protein structure. The projected is motivated by [Osanseviero](https://huggingface.co/spaces/osanseviero/esmfold).
+The scientific research to better understand the full potential and functions of proteins lies within the protein's structure. [EMSFold](https://esmatlas.com/about) is a great biological tool developed to predict protein structure based on the ESM-2 language model. The focus on this project is to build an algorithm to predict an end-end single sequence protein structure. This project is motivated by [Osanseviero](https://huggingface.co/spaces/osanseviero/esmfold).
 
 <video controls autoplay src="images/protein_structure.mov" width="500"></video>
 
